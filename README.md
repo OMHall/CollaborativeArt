@@ -1,5 +1,4 @@
-# Collaborative Evolution of Art 
-# in the Latent Space of a Deep Generative Model
+# Collaborative Evolution of Art in the Latent Space of a Deep Generative Model
 
 This project was created as a master thesis at the VU Amsterdam. It contains a Creative Adversarial Network (CAN) for the generation of artworks. Resolutions of 64 x 64 and 256 x 144 (16:9) are available. Tho models are implemented with PyTorch.
 

@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     # save images
     from torchvision.utils import save_image
-    img_save_path = './plots/'
+    img_save_path = './CAN/plots/'
     os.makedirs(img_save_path, exist_ok=True)
 
     from CAN.parameters import *

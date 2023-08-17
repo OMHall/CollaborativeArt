@@ -10,7 +10,7 @@ import torchvision.datasets as dset
 import torchvision.transforms as transforms
 import torchvision.utils as vutils
 import numpy as np
-from ripper.parameters import *
+from CAN.parameters import *
 
 
 # custom weights initialization called on netG and netD

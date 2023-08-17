@@ -23,7 +23,7 @@ Neural Image Assesment (NIMA): Talebi, H., Milanfar, P.: NIMA: Neural image asse
 
 Aesthetic Visual Analysis (AVA): Murray, N., Marchesotti, L., Perronnin, F.: AVA: A large-scale database for aesthetic visual analysis. In: IEEE Conference on Computer Vision and Pattern Recognition. pp. 2408–2415 (2012)
 
-[This](https://github.com/titu1994/neural-image-assessment) implementation was used for NIMA without changes (the Inception ResNet v2 model, [weights can be dowloaded here](https://github.com/titu1994/neural-image-assessment/releases/tag/v0.5)).
+[This implementation](https://github.com/titu1994/neural-image-assessment) was used for NIMA without changes (the Inception ResNet v2 model, [weights can be dowloaded here](https://github.com/titu1994/neural-image-assessment/releases/tag/v0.5)).
 
 Laplacian Pyramid Super-Resolution Network (LapSRN): Lai, W.S., Huang, J.B., Ahuja, N., Yang, M.H.: Deep laplacian pyramid networks for fast and accurate super-resolution. In: IEEE Conferene on Computer Vision and Pattern Recognition (2017)
 

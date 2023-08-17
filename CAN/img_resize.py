@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 # List style
-style_names = os.listdir('./wikiart/wikiart_original/')
+style_names = os.listdir('./CAN/wikiart/wikiart_original/')
 
 # Loop to resize all styles
 

@@ -1,6 +1,8 @@
 # Collaborative Evolution of Art in the Latent Space of a Deep Generative Model
 
-This project was created as a master thesis at the VU Amsterdam. It contains a Creative Adversarial Network (CAN) for the generation of artworks. Resolutions of 64 x 64 and 256 x 144 (16:9) are available. The models are implemented with PyTorch.
+This project was created as a master thesis at the VU Amsterdam. 
+
+It contains a Creative Adversarial Network (CAN) for the generation of artworks. Resolutions of 64 x 64 and 256 x 144 (16:9) are available. The models are implemented with PyTorch.
 
 It further contains an evolutionary computing approach to control the latent variables from which the CAN's generator creates images. For this, the evolutionary algorithm framework [DEAP](https://github.com/deap/deap) was used. A local search following the work of Roziere et al. (2020) was implemented as mutation. To determine the quality of the art images, an automatic image evaluation metric based on Neural Image Assesment (NIMA) trained on Aesthetic Visual Analysis dataset (AVA) was applied. In addition, an interactive (collaborative) evaluation was implemented. For the interactive evaluation, the images were upsampled using The Laplacian Pyramid Super-Resolution Network (LapSRN).
 

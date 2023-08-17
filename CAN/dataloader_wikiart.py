@@ -4,7 +4,7 @@ import torchvision
 import torchvision.transforms as transforms
 import numpy as np
 from PIL import Image
-from ripper.parameters import *
+from CAN.parameters import *
 
 def get_dataset():
 

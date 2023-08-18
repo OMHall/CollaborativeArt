@@ -33,8 +33,8 @@ Local Search: Roziere, B., Teytaud, F., Hosu, V., Lin, H., Rapin, J., Zameshina,
 
 ## Usage
 
-To train the GAN, the use of GPU is recommended, especially for the higher resolution. As soon as a trained generator is provided, CPU is sufficient.
+To train the GAN, the use of GPU is recommended, especially for the higher resolution. As soon as a trained generator is provided, CPU is sufficient. The requirements can be found in the corresponding file.
 
 Everything concerning CAN training can be found in the corresponding folder. In parameter.py, the overall parameters can bet set. train.py expects a folder containing a training dataset already in the appropriate size. The notebook offers an analysis of the training results.
 
-With regard to the evolutionary computing approach, several notebooks are available. 
+For the evolutionary computing approach, there are several notebooks whose names are descriptive. All of them require a trained generator, most of them further require the availability of a pretrained NIMA model and a pretrained LapSRN model.

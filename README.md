@@ -6,12 +6,9 @@ It further contains an evolutionary computing approach to control the latent var
 
 ## Examples
 
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_1.png" height=40% width=40%>
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_2.png" height=40% width=40%>
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_3.png" height=40% width=40%>
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_4.png" height=40% width=40%>
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_5.png" height=40% width=40%>
-<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_6.png" height=40% width=40%>
+<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_1.png" height=40% width=40%> <img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_2.png" height=40% width=40%>
+<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_3.png" height=40% width=40%> <img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_4.png" height=40% width=40%>
+<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_5.png" height=40% width=40%> <img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_6.png" height=40% width=40%>
 
 ## WikiArt Dataset
 

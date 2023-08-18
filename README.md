@@ -4,6 +4,15 @@ This project was created as a master thesis at the VU Amsterdam. It contains a C
 
 It further contains an evolutionary computing approach to control the latent variables from which the CAN's generator creates images. For this, the evolutionary algorithm framework [DEAP](https://github.com/deap/deap) was used. A local search following the work of Roziere et al. (2020) was implemented as mutation. To determine the quality of the art images, an automatic image evaluation metric based on Neural Image Assesment (NIMA) trained on Aesthetic Visual Analysis dataset (AVA) was applied. In addition, an interactive (collaborative) evaluation was implemented. The images were upsampled using The Laplacian Pyramid Super-Resolution Network (LapSRN).
 
+## Examples
+
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+
 ## WikiArt Dataset
 
 The publicly available WikiArts dataset was resized and used as training data. However, the models can also be trained on any other dataset.

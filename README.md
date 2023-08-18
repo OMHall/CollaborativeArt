@@ -33,7 +33,7 @@ Local Search: Roziere, B., Teytaud, F., Hosu, V., Lin, H., Rapin, J., Zameshina,
 
 ## Usage
 
-To train the GAN, the use of GPU is recommended, especially for the higher resolution. As soon as a trained generator is provided, CPU is sufficient. The environment.yml file can be used to create an environment (pytorch is thereby only installed for CPU).
+To train the GAN, the use of GPU is recommended, especially for the higher resolution. As soon as a trained generator is provided, CPU is sufficient. The environment.yml file can be used to create an environment (PyTorch is thereby only installed for CPU however).
 
 Everything concerning CAN training can be found in the corresponding folder. In parameter.py, the overall parameters can bet set. train.py expects a folder containing a training dataset already in the appropriate size. The notebook offers an analysis of the training results.
 

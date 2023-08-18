@@ -6,7 +6,7 @@ It further contains an evolutionary computing approach to control the latent var
 
 ## Examples
 
-<img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
+<img src="https://github.com/OMHall/CollaborativeArt/blob/main/Examples/Example_1.png" height=100% width=100%>
 <img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
 <img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>
 <img src="https://github.com/titu1994/neural-image-assessment/blob/master/images/NIMA.jpg?raw=true" height=100% width=100%>

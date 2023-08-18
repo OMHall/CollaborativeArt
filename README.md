@@ -23,7 +23,7 @@ The wikiarts dataset can be [downloaded from this repository](https://github.com
 
 The implementation of the CAN was based on [this repository](https://github.com/otepencelik/GAN-Artwork-Generation) and also inspired by [this](https://github.com/IliaZenkov/DCGAN-Rectangular-GANHacks2/tree/main). 
 
-(2) Collaborative Evolution
+(2) Automatic and Collaborative Evolution
 
 Neural Image Assesment (NIMA): Talebi, H., Milanfar, P.: NIMA: Neural image assessment. IEEE Transactions on Image Processing 27(8), 3998–4011 (2018)
 

@@ -21,7 +21,7 @@ The wikiarts dataset can be [downloaded from this repository](https://github.com
 
 [Creative Adversarial Network (CAN)](https://arxiv.org/pdf/1706.07068.pdf): Elgammal, A., Liu, B., Elhoseiny, M., Mazzone, M.: CAN: Creative adversarial networks, generating ”art” by learning about styles and deviating from style norms. arXiv:1706.07068 (2017)
 
-The implementation of the CAN was based on [this repository](https://github.com/otepencelik/GAN-Artwork-Generation) and also inspired by [this](https://github.com/IliaZenkov/DCGAN-Rectangular-GANHacks2/tree/main). 
+The implementation of the CAN was based on [this repository](https://github.com/otepencelik/GAN-Artwork-Generation) and also inspired by [this one](https://github.com/IliaZenkov/DCGAN-Rectangular-GANHacks2/tree/main). 
 
 (2) Automatic and Collaborative Evolution
 

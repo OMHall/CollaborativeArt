@@ -3,7 +3,7 @@
 This project was originally created as a master thesis at the VU Amsterdam and contains the implementation of the following paper:
 
 > **Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**<br>
-> Ole Hall & Anil Yaman
+> Ole Hall & Anil Yaman<br>
 > https://doi.org/10.1007/978-3-031-56992-0_13
 >
 > **Abstract:** *Generative Adversarial Networks (GANs) have shown great success in generating high quality images and are thus used as one of the main approaches to generate art images. However, usually the image generation process involves sampling from the latent space of the learned art representations, allowing little control over the output. In this work, we first employ GANs that are trained to produce creative images using an architecture known as Creative Adversarial Networks (CANs), then, we employ an evolutionary approach to navigate within the latent space of the models to discover images. We use automatic aesthetic and collaborative interactive human evaluation metrics to assess the generated images. In the human interactive evaluation case, we propose a collaborative evaluation based on the assessments of several participants. Furthermore, we also experiment with an intelligent mutation operator that aims to improve the quality of the images through local search based on an aesthetic measure. We evaluate the effectiveness of this approach by comparing the results produced by the automatic and collaborative interactive evolution. The results show that the proposed approach can generate highly attractive art images when the evolution is guided by collaborative human feedback.*

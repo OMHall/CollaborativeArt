@@ -1,4 +1,4 @@
-# Collaborative Evolution of Art in the Latent Space of a Deep Generative Model
+# Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models
 
 This project was originally created as a master thesis at the VU Amsterdam and contains the implementation of the following paper:
 

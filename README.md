@@ -56,16 +56,16 @@ For the evolutionary computing approach, there are several notebooks whose names
 
 If you find this useful, please cite:
 
-@InProceedings{10.1007/978-3-031-56992-0_13,
-author="Hall, Ole and Yaman, Anil",
-editor="Johnson, Colin and Rebelo, S{\'e}rgio M. and Santos, Iria",
-title="Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models",
-booktitle="Artificial Intelligence in Music, Sound, Art and Design",
-year="2024",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="194--210",
-doi="10.1007/978-3-031-56992-0_13"
+@InProceedings{10.1007/978-3-031-56992-0_13,<br>
+author="Hall, Ole and Yaman, Anil",<br>
+editor="Johnson, Colin and Rebelo, S{\'e}rgio M. and Santos, Iria",<br>
+title="Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models",<br>
+booktitle="Artificial Intelligence in Music, Sound, Art and Design",<br>
+year="2024",<br>
+publisher="Springer Nature Switzerland",<br>
+address="Cham",<br>
+pages="194--210",<br>
+doi="10.1007/978-3-031-56992-0_13"<br>
 }
 
 
